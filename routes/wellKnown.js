@@ -3,7 +3,7 @@ var express = require('express');
 var router = express.Router();
 
 const knownDomainConfigurations = {
-    "tinslab.us": 'https://manage.microsoft.com/EnrollmentServer/PostReportDeviceInfoForUEV2?aadTenantId=7dbc8268-5fe9-40c8-891f-414a8ff45619'
+    "hedwing.us": 'https://manage.microsoft.com/EnrollmentServer/PostReportDeviceInfoForUEV2?aadTenantId=abcd2c5b-5fcd-4897-86a6-f364fb05cbbc'
 }
 
 const knownUserNameOverrides = {
